@@ -1,5 +1,7 @@
 # DroidDLNA
 
+[![Join the chat at https://gitter.im/tedr56/DroidDLNA](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tedr56/DroidDLNA?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 DroidDLNA is a full featured android DLNA App, with support of  UPnP/DLNA Control Point, UPnP Media Renderer and UPnP Media Server.
 This app is based on Cling 2.0 alpha1, Cling is a UPnP-compatible software stack for Java environments.
 
